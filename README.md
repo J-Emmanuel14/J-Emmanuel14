@@ -1,6 +1,5 @@
 ## Bem vindos ao meu perfil 💙
 
-<!--
 Meu nome é João Emmanuel
 
 Um pouco sobre mim
@@ -10,4 +9,3 @@ Um pouco sobre mim
 - 💡 Uso esse espaço para organizar e compartilhar meus projetos
 - 📫 Para entrar em contato comigo usem meu e-mail: j.emmanuelsdm@gmail.com
 - 😄 Use os pronomes ele/dele para se referirem a mim
--->
